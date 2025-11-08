@@ -32,6 +32,14 @@ mvn exec:java"
 
 ---
 
+## 🧰 Tools & Technologies
+
+![Java](https://img.shields.io/badge/Java_11-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
 ## 🛠️ Requirements
 
 * Java JDK 8 or later
