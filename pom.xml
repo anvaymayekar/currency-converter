@@ -13,7 +13,7 @@
     
     <name>Currency Converter Pro</name>
     <description>A modern currency converter with authentication and real-time charts</description>
-    <url>https://github.com/your-username/currency-converter</url>
+    <url>https://github.com/anvaymayekar/currency-converter</url>
     
     <!-- Project Properties -->
     <properties>
@@ -291,4 +291,5 @@
         <url>https://github.com/your-username/currency-converter</url>
     </scm>
     
+
 </project>
